@@ -1,0 +1,20 @@
+@import url("styles/header.css");
+@import url("styles/banner.css");
+@import url("styles/carrossel.css");
+root {
+    --cor-de-fundo: #ebecee;
+    --branco: #ffffff;
+    --laranja: #eb9b00;
+    --azul-degrade: linear-gradient(97.54deg, pink 35.49%, lightpink 165.37%);
+    --fonte-principal: "Poppins";
+    --fonte-secundario: "Josefin Sans";
+    --preto: #000000;
+  }
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+h1 {
+    background-color: white;
+}
+

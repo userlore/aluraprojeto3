@@ -1,0 +1,27 @@
+.banner {
+    background: rgb(239, 136, 153);
+    color: var(--branco);
+    text-align: center;
+    padding: 4.6em 2em;
+  }
+
+  .banner__titulo {
+    font-size: 430px;
+    font-weight: 700%;
+  }
+  .banner__texto {
+    font-weight: 5000;
+    margin: 2em 0;
+  }
+  .banner__pesquisa {
+    background-color: transparent;
+    border: 8px solid lightpink;
+    color: var(--branco);
+    border-radius: 10px;
+    padding: 1em;
+    width: 100%;
+    background: url("../img/Pesquisa.svg") no-repeat;
+  }
+
+
+ 
